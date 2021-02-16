@@ -1,6 +1,8 @@
 # Projeto Netshoes
 
-Repositório iniciado para os arquivos de automação de testes do Projeto Netshoes
+Repositório criado para os arquivos de automação de testes do Projeto Netshoes, foi utilizada a linguagem Ruby para criação do código, cucumber para integração com navegador e capybara para validações.
+
+A estrutura é basicamente elaborar o BDD e compilar este BDD através do cucumber, onde terei os métodos Ruby para desenvover as ações dentro do sistema.
 
 # BDD
 
